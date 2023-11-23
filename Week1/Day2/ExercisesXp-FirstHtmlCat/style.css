@@ -1,0 +1,33 @@
+
+.image-container {
+    text-align: center;
+}
+.image-container img {
+
+    border: 3px solid orange;
+}
+
+#media {
+    text-align: center;
+}
+
+#characteristics-behavior {
+    width: 75%;
+    color: red;
+    text-align: center;
+    border: 1px solid red;
+    padding: 5px;
+    margin: 0% auto; 
+}
+
+table {
+    width: 76%;
+    margin: 0 auto; 
+    border-collapse: separate; 
+    border-spacing: 2px; 
+}
+
+table th, table td {
+    border: 1px solid black; 
+    padding: 5px;
+}
